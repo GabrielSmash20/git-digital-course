@@ -6,3 +6,4 @@
 *uso do comando git restore
 
 *comando git push
+*comando gut pull
